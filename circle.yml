@@ -3,4 +3,4 @@ machine:
     version: 4.2.2
 notify:
   webhooks:
-    - url: http://k.wdt.io/X1ggEB2-Z/circleci/counter?2
+    - url: http://staging.k.wdt.io/XJt6wGhWx/circleci/counter?2
