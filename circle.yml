@@ -1,3 +1,6 @@
 machine:
   node:
     version: 4.2.2
+notify:
+  webhooks:
+    - url: http://k.wdt.io/X1ggEB2-Z/circleci/counter?2
