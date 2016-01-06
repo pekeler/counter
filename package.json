@@ -2,6 +2,7 @@
   "name": "redux-counter-example",
   "version": "0.0.0",
   "description": "Redux counter example",
+  "engines" : { "node" : ">=4.2.2 <5.0" },
   "scripts": {
     "start": "node server.js",
     "test": "NODE_ENV=test mocha --recursive --compilers js:babel-core/register --require ./test/setup.js",
